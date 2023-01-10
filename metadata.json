@@ -1,0 +1,21 @@
+{
+  "name": "BONKz #1939",
+  "symbol": "BONKZ",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://bafybeiecuemcqxzuv4ti4sgffjlwvrqedr7golppwrbbu2u5yttglath3m.ipfs.nftstorage.link/0.png?ext=png",
+  "attributes": [
+{
+      "trait_type": "Attributes",
+      "value": "Hidden"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
